@@ -1,0 +1,8 @@
+
+const GET_ALL_HRS = "hr:GET_ALL_HRS";
+const SIGN_IN = "hr:SIGN_IN";
+const UPDATE_HR = "hr:UPDATE_HR";
+const DELETE_HR = "hr:DELETE_HR";
+const ADD_ATTENDANCE= "hr:ADD_ATTENDANCE";
+
+module.exports={ GET_ALL_HRS ,SIGN_IN,UPDATE_HR, DELETE_HR, ADD_ATTENDANCE }
